@@ -5,12 +5,10 @@ Some of the providers have repositories here, other are simply linked to below
 
 ## Providers elsewhere
 
-[BLAKE3](https://github.com/J-Montgomery/blake3-prov)
+[BLAKE3 provider (blake3-prov)](https://github.com/J-Montgomery/blake3-prov) by 
+[Jordan M.](https://github.com/J-Montgomery)
 
-## Just started
+[Open Quantum Safe provider (oqs-provider)](https://github.com/open-quantum-safe/oqs-provider) by [Open Quantum Safe](https://github.com/open-quantum-safe).
+This is their [liboqs integration in earlier OpenSSL versions](https://github.com/open-quantum-safe/openssl), taking the form of a provider for OpenSSL 3.
 
-[Open Quantum Safe](https://github.com/open-quantum-safe)
-is about to leverage their
-[liboqs integration in earlier OpenSSL versions](https://github.com/open-quantum-safe/openssl)
-as an
-[external provider (oqs-provider)](https://github.com/open-quantum-safe/oqs-provider).
+[TPM 2.0 provider (tpm2-openssl)](https://github.com/gotthardp/tpm2-openssl) by [Petr Gotthard](https://github.com/gotthardp).
