@@ -12,3 +12,5 @@ Some of the providers have repositories here, other are simply linked to below
 This is their [liboqs integration in earlier OpenSSL versions](https://github.com/open-quantum-safe/openssl), taking the form of a provider for OpenSSL 3.
 
 [TPM 2.0 provider (tpm2-openssl)](https://github.com/tpm2-software/tpm2-openssl) by [Petr Gotthard](https://github.com/gotthardp) and the [tpm2-software community](https://tpm2-software.github.io/).
+
+[PKCS#11 provider](https://github.com/latchset/pkcs11-provider) by [\@latchset](https://latchset.github.io/)
