@@ -15,6 +15,8 @@ This is their [liboqs integration in earlier OpenSSL versions](https://github.co
 
 [PKCS#11 provider](https://github.com/latchset/pkcs11-provider) by [\@latchset](https://latchset.github.io/)
 
+[MD5 provider](https://github.com/docularxu/md5_mb_provider/tree/working_ossl_3.0_provider) by [Guodong Xu](https://www.linkedin.com/in/docularxu) from [Linaro.org](https://www.linaro.org/). This provider supports an MD5 algorithm implementation. It is based on the [multi-threaded version of ISA-L_crypto](https://github.com/docularxu/isa-l_crypto/tree/working_md5_multi_threads) which allows to harness multiple CPU cores to further increase the bandwidth. The original [ISA-L_cypto](https://github.com/intel/isa-l_crypto) provides a basic multi-buffer MD5 implementation.
+
 ## Links to providers welcome!
 
 The more the merrier.  If you know of a provider that isn't presented
