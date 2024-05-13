@@ -1,3 +1,7 @@
+<!--
+SPDX-License-Identifier: CC0-1.0
+-->
+
 # provider-corner
 
 This corner of GitHub collects providers for OpenSSL 3.0 and beyond.
