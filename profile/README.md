@@ -23,6 +23,8 @@ This is their [liboqs integration in earlier OpenSSL versions](https://github.co
 
 [(Windows only) CNG provider](https://github.com/Lipovlan/cng-openssl-provider) by [\@Lipovlan](https://github.com/Lipovlan)
 
+[Quantis Provider](https://github.com/cchinchole/SSLRngProviders/) by [\@cchinchole](https://github.com/cchinchole)
+
 ## Links to providers welcome!
 
 The more the merrier.  If you know of a provider that isn't presented
