@@ -27,6 +27,8 @@ This is their [liboqs integration in earlier OpenSSL versions](https://github.co
 
 [e_nss cryptographic module provider](https://roumenpetrov.info/e_nss/) by [Румен Петров](https://roumenpetrov.info/)
 
+[GOST engine/provider](https://github.com/gost-engine/engine), a reference implementation of the Russian GOST crypto algorithms for OpenSSL
+
 ## Libraries
 
 - Languages:
