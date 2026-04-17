@@ -25,7 +25,14 @@ This is their [liboqs integration in earlier OpenSSL versions](https://github.co
 
 [Quantis Provider](https://github.com/cchinchole/SSLRngProviders/) by [\@cchinchole](https://github.com/cchinchole)
 
-## Links to providers welcome!
+[e_nss cryptographic module provider](https://roumenpetrov.info/e_nss/) by [Румен Петров](https://roumenpetrov.info/)
+
+## Libraries
+
+- Languages:
+  - Rust: https://github.com/QUBIP/openssl-provider-forge-rs
+
+## Links to providers and related libraries welcome!
 
 The more the merrier.  If you know of a provider that isn't presented
 here, please raise an [issue] or submit a PR to update [this file].
