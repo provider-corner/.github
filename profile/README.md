@@ -17,7 +17,7 @@ This is their [liboqs integration in earlier OpenSSL versions](https://github.co
 
 [TPM 2.0 provider (tpm2-openssl)](https://github.com/tpm2-software/tpm2-openssl) by [Petr Gotthard](https://github.com/gotthardp) and the [tpm2-software community](https://tpm2-software.github.io/).
 
-[PKCS#11 provider](https://github.com/latchset/pkcs11-provider) by [\@latchset](https://latchset.github.io/)
+[PKCS#11 provider](https://github.com/openssl-projects/pkcs11-provider) by [Simo Sorce](https://ssimo.org/)
 
 [MD5 provider](https://github.com/docularxu/md5_mb_provider/tree/working_ossl_3.0_provider) by [Guodong Xu](https://www.linkedin.com/in/docularxu) from [Linaro.org](https://www.linaro.org/). This provider supports an MD5 algorithm implementation. It is based on the [multi-threaded version of ISA-L_crypto](https://github.com/docularxu/isa-l_crypto/tree/working_md5_multi_threads) which allows to harness multiple CPU cores to further increase the bandwidth. The original [ISA-L_cypto](https://github.com/intel/isa-l_crypto) provides a basic multi-buffer MD5 implementation.
 
